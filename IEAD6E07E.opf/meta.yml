@@ -1,0 +1,36 @@
+id: IEAD6E07E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:13:08.362716'
+last_modified: '2022-06-17T14:13:08.362745'
+parser: null
+source_metadata:
+  title: Siṃhamukhā Series
+  language: en
+  description: 'Texts related to Siṃhamukhā/Siṃhamukhī or Siṃhavaktrā (seng ge gdong
+    ma), the Lion-Faced Ḍākinī:'
+  volume:
+    fD7B2:
+      title: A Daily 'Hand-Clapping' Practice of Siṃhamukhā
+      base_file: fD7B2.txt
+      order: 1
+      parent: Averting Obstacles
+    f9AE1:
+      title: The History of the Hearing Lineage of the Profound and Secret Practice
+        of Siṃhamukhā
+      base_file: f9AE1.txt
+      order: 2
+      parent: History
+    f5F1C:
+      title: Siṃhamukhā Lineage Prayer
+      base_file: f5F1C.txt
+      order: 3
+      parent: Lineage Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
